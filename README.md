@@ -8,7 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-white.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
 [![Vitest](https://img.shields.io/badge/Vitest-Passing-white.svg?style=for-the-badge&logo=vitest&logoColor=FCC72B)](https://vitest.dev/)
-[![Vercel](https://img.shields.io/badge/Deploy-Vercel-white.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://vercel.com/)
+[![Vercel](https://img.shields.io/badge/Deployed-cybersecurityproject--gold.vercel.app-white.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://cybersecurityproject-gold.vercel.app)
 
 <p align="center">
   <strong>A 3-Round Interactive Key Exchange Simulation Powered by Commutative Homomorphic Exponentiation</strong>
@@ -18,7 +18,7 @@
   <em>Two parties agree on a high-entropy secret by blinding, swapping, and unblinding values with commutative homomorphic functions — without pre-shared secrets or Diffie-Hellman public keys.</em>
 </p>
 
-[**Live Demo**](#-zero-config-vercel-deployment) • [**Protocol Specification**](#-protocol-specification) • [**Adversary Analysis**](#-adversary-analysis-eve) • [**Mathematical Proof**](#-mathematical-foundation) • [**Test Suite**](#-automated-testing)
+[**🌐 Live Deployment**](https://cybersecurityproject-gold.vercel.app) • [**Protocol Specification**](#-protocol-specification) • [**Adversary Analysis**](#-adversary-analysis-eve) • [**Mathematical Proof**](#-mathematical-foundation) • [**Test Suite**](#-automated-testing)
 
 </div>
 
